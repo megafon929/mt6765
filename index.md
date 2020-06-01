@@ -45,4 +45,4 @@ VoLTE not working
 
 [Yandex Money](https://money.yandex.ru/to/410015491197190)
 
-[PayPal](paypal.me/megafon929)
+[PayPal](https://paypal.me/megafon929)
