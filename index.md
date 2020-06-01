@@ -41,5 +41,5 @@ VoLTE not working
 
 ##For donation
 
-[Yandex Money] https://money.yandex.ru/to/410015491197190
+[Yandex Money] (https://money.yandex.ru/to/410015491197190)
 
