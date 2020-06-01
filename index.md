@@ -26,4 +26,4 @@ VoLTE not working
 [VK] (https://vk.com/yarpopkov)
 
 ##For donation
-[Donate] (don.html)
+[Donate] (don.html) 
