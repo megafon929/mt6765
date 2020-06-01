@@ -33,6 +33,8 @@ VoLTE not working
 ## Social
 [Telegram](https://t.me/yarpopkov)
 
+[Telegram channel](https://t.me/m929_rom)
+
 [Twitter](https://twitter.com/yarpopkov)
 
 [4PDA](https://4pda.ru/forum/index.php?showuser=4357013)
