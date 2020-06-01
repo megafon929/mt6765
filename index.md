@@ -31,15 +31,15 @@ VoLTE not working
 
 
 ## Social
-[Telegram] (https://t.me/yarpopkov)
+[Telegram](https://t.me/yarpopkov)
 
-[Twitter] (https://twitter.com/yarpopkov)
+[Twitter](https://twitter.com/yarpopkov)
 
-[4PDA] (https://4pda.ru/forum/index.php?showuser=4357013)
+[4PDA](https://4pda.ru/forum/index.php?showuser=4357013)
 
-[VK] (https://vk.com/yarpopkov)
+[VK](https://vk.com/yarpopkov)
 
 ##For donation
 
-[Yandex Money] (https://money.yandex.ru/to/410015491197190)
+[Yandex Money](https://money.yandex.ru/to/410015491197190)
 
