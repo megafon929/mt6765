@@ -40,5 +40,6 @@ VoLTE not working
 [VK] (https://vk.com/yarpopkov)
 
 ##For donation
+
 [Yandex Money] https://money.yandex.ru/to/410015491197190
 
