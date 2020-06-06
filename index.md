@@ -32,3 +32,10 @@ VoLTE not working
 ## For donation
 + [Yandex Money](https://money.yandex.ru/to/410015491197190)
 + [PayPal](https://paypal.me/megafon929)
+
+## Gratitudes
++ [Myst33d](https://github.com/Myst33d)
++ [SamarV-121](https://github.com/SamarV-121)
++ [wulan17](https://github.com/wulan17)
++ [JarlPenguin](https://github.com/JarlPenguin)
+
