@@ -21,6 +21,10 @@ VoLTE not working
 + [Pixel Experience Plus](https://mega.nz/file/c6wzECwb#ZLTSWH2iyizywUREBxHkMrXfw38sQHZ01apSX5l9Byc)
 + [ValidusOS](https://mega.nz/file/J7Z1napD#M4MOj85qqPS3gb8DbI8I5xo_l0wjQIJfVyvNYF6SXqs)
 
+## ROMs mirror:
++ MEGA: https://mega.nz/folder/Mz4CBayS#KTYtAccxx8Kpi9US5XK-hA
++ Yandex Disk: https://yadi.sk/d/17SicdBUsSeZ_Q
++ Mail.ru Cloud: https://cloud.mail.ru/public/5yNK/2iFGmtMHs
 
 ## Social
 + [Telegram](https://t.me/yarpopkov)
