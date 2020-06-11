@@ -25,6 +25,7 @@ VoLTE not working
 + MEGA: https://mega.nz/folder/Mz4CBayS#KTYtAccxx8Kpi9US5XK-hA
 + Yandex Disk: https://yadi.sk/d/17SicdBUsSeZ_Q
 + Mail.ru Cloud: https://cloud.mail.ru/public/5yNK/2iFGmtMHs
++ Android File Host: https://androidfilehost.com/?w=profile&uid=385035244224405654
 
 ## Social
 + [Telegram](https://t.me/yarpopkov)
