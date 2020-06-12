@@ -11,6 +11,7 @@ VoLTE not working
 + [LineageOS 16.0](https://mega.nz/file/szBliQ6I#6nCj_9H8iIoY_jLUzcv8ULJ-TcB2CReYJvVx9vG1XNc)
 + [Pixel Experience Plus](https://mega.nz/file/A7IWDajK#NuGy9M-qVh4qsPe13J7fiHPlMqSG3ar4YRduBMbzYfU)
 + [ValidusOS](https://mega.nz/file/dnIRTSDD#LbgVHw98ZmiediyQJhVdmnMN9iCOuG187PEZ33dc3LE)
++ [BlissRom](https://mega.nz/file/wvZzSSRR#Vhnhg70Sj30XsxBz88dUPfSCzQSO85U_AnNvVHhhivA)
 
 ## Redmi 6A 
 + [AICP 14.0](https://mega.nz/file/5y5XhYZI#SwyeHzg-OJ3OGjt8WYapSIyBwSjntwfQr5f0ZdzBkwc)
@@ -20,6 +21,7 @@ VoLTE not working
 + [LineageOS 16.0](https://mega.nz/file/gvATAAiQ#JIBfjjjttoO9XIfaFTzWNyEPfbOcKbSrf6U5JZE0Pcw)
 + [Pixel Experience Plus](https://mega.nz/file/c6wzECwb#ZLTSWH2iyizywUREBxHkMrXfw38sQHZ01apSX5l9Byc)
 + [ValidusOS](https://mega.nz/file/J7Z1napD#M4MOj85qqPS3gb8DbI8I5xo_l0wjQIJfVyvNYF6SXqs)
++ [BlissRom](https://mega.nz/file/c2J1lAaK#Z49V-Fjjly-YJpNiFY4wVvVfwdhYvhllqYOAQRt1xII)
 
 ## ROMs mirror:
 + MEGA: https://mega.nz/folder/Mz4CBayS#KTYtAccxx8Kpi9US5XK-hA
