@@ -11,16 +11,15 @@ VoLTE not working
 [Installation guide](https://telegra.ph/Install-custom-rom-on-Xiaomi-Redmi-6-and-Redmi-6A-07-22)
 
 ## ROMS
-Name | Redmi 6| Redmi 6A
------------- | -------------|-------------
-AICP 14.0 | [Link](https://mega.nz/file/NygF0ISY#aBWRByKkqsHAw-WzPxFiJinfTOvlfR95LraDRvJgD5c)| [Link](https://mega.nz/file/5y5XhYZI#SwyeHzg-OJ3OGjt8WYapSIyBwSjntwfQr5f0ZdzBkwc)
-ArrowOS | [Link](https://mega.nz/file/xmYGSCya#GB64Xe1jKFWAnIhb6DStyBhXSFiysAvRPhmG25GBr3s)| [Link](https://mega.nz/file/1jJQUQDL#QSP2Bsptcnz6iXOvE7FV1KoSt0KY_HHaVqVKxP9bpC8)
-BlissRom | [Link](https://mega.nz/file/wvZzSSRR#Vhnhg70Sj30XsxBz88dUPfSCzQSO85U_AnNvVHhhivA)| [Link](https://mega.nz/file/c2J1lAaK#Z49V-Fjjly-YJpNiFY4wVvVfwdhYvhllqYOAQRt1xII)
-crDroid 5.11 | [Link](https://mega.nz/file/QyBgTayZ#ho5L1aDQhniqmVCk7CLuUuD1gtzeEP1AWhiJ7pqvQ9A)| [Link](https://mega.nz/file/hiQClCaJ#ZqHhNA2dyGJMsGXrAdiabxQTFYYkBboxKlgUbuUmOUw)
-GZOSP Android 9.0 | [Link](https://mega.nz/file/xrQiRKgK#CE07f50D9zJKOytj7KXLwAPwdERq57CAwSQue7mWsfo)| [Link](https://mega.nz/file/s7h3hLaL#bx9XucbQZO3m3N9HTIKtal2chO8yxOBwj1v_FBlecN0)
-LineageOS 16.0 | [Link](https://mega.nz/file/szBliQ6I#6nCj_9H8iIoY_jLUzcv8ULJ-TcB2CReYJvVx9vG1XNc)| [Link](https://mega.nz/file/gvATAAiQ#JIBfjjjttoO9XIfaFTzWNyEPfbOcKbSrf6U5JZE0Pcw)
-Pixel Experience Plus | [Link](https://mega.nz/file/A7IWDajK#NuGy9M-qVh4qsPe13J7fiHPlMqSG3ar4YRduBMbzYfU)| [Link](https://mega.nz/file/c6wzECwb#ZLTSWH2iyizywUREBxHkMrXfw38sQHZ01apSX5l9Byc)
-ValidusOS | [Link](https://mega.nz/file/dnIRTSDD#LbgVHw98ZmiediyQJhVdmnMN9iCOuG187PEZ33dc3LE)| [Link](https://mega.nz/file/J7Z1napD#M4MOj85qqPS3gb8DbI8I5xo_l0wjQIJfVyvNYF6SXqs)
+
++ AICP 14.0 | [Redmi 6](https://mega.nz/file/NygF0ISY#aBWRByKkqsHAw-WzPxFiJinfTOvlfR95LraDRvJgD5c) | [Redmi 6A](https://mega.nz/file/5y5XhYZI#SwyeHzg-OJ3OGjt8WYapSIyBwSjntwfQr5f0ZdzBkwc)
++ ArrowOS | [Redmi 6](https://mega.nz/file/xmYGSCya#GB64Xe1jKFWAnIhb6DStyBhXSFiysAvRPhmG25GBr3s) | [Redmi 6A](https://mega.nz/file/1jJQUQDL#QSP2Bsptcnz6iXOvE7FV1KoSt0KY_HHaVqVKxP9bpC8)
++ BlissRom | [Redmi 6](https://mega.nz/file/wvZzSSRR#Vhnhg70Sj30XsxBz88dUPfSCzQSO85U_AnNvVHhhivA) | [Redmi 6A](https://mega.nz/file/c2J1lAaK#Z49V-Fjjly-YJpNiFY4wVvVfwdhYvhllqYOAQRt1xII)
++ crDroid 5.11 | [Redmi 6](https://mega.nz/file/QyBgTayZ#ho5L1aDQhniqmVCk7CLuUuD1gtzeEP1AWhiJ7pqvQ9A) | [Redmi 6A](https://mega.nz/file/hiQClCaJ#ZqHhNA2dyGJMsGXrAdiabxQTFYYkBboxKlgUbuUmOUw)
++ GZOSP Android 9.0 | [Redmi 6](https://mega.nz/file/xrQiRKgK#CE07f50D9zJKOytj7KXLwAPwdERq57CAwSQue7mWsfo) | [Redmi 6A](https://mega.nz/file/s7h3hLaL#bx9XucbQZO3m3N9HTIKtal2chO8yxOBwj1v_FBlecN0)
++ LineageOS 16.0 | [Redmi 6](https://mega.nz/file/szBliQ6I#6nCj_9H8iIoY_jLUzcv8ULJ-TcB2CReYJvVx9vG1XNc) | [Redmi 6A](https://mega.nz/file/gvATAAiQ#JIBfjjjttoO9XIfaFTzWNyEPfbOcKbSrf6U5JZE0Pcw)
++ Pixel Experience Plus | [Redmi 6](https://mega.nz/file/A7IWDajK#NuGy9M-qVh4qsPe13J7fiHPlMqSG3ar4YRduBMbzYfU) | [Redmi 6A](https://mega.nz/file/c6wzECwb#ZLTSWH2iyizywUREBxHkMrXfw38sQHZ01apSX5l9Byc)
++ ValidusOS | [Redmi 6](https://mega.nz/file/dnIRTSDD#LbgVHw98ZmiediyQJhVdmnMN9iCOuG187PEZ33dc3LE) | [Redmi 6A](https://mega.nz/file/J7Z1napD#M4MOj85qqPS3gb8DbI8I5xo_l0wjQIJfVyvNYF6SXqs)
 
 ## TWRP Official
 + [TWRP 3.4.0-1 Cactus](https://twrp.me/xiaomi/xiaomiredmi6a.html)
