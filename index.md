@@ -21,9 +21,9 @@ VoLTE not working
 + Pixel Experience Plus | [Redmi 6](https://mega.nz/file/A7IWDajK#NuGy9M-qVh4qsPe13J7fiHPlMqSG3ar4YRduBMbzYfU) | [Redmi 6A](https://mega.nz/file/c6wzECwb#ZLTSWH2iyizywUREBxHkMrXfw38sQHZ01apSX5l9Byc)
 + ValidusOS | [Redmi 6](https://mega.nz/file/dnIRTSDD#LbgVHw98ZmiediyQJhVdmnMN9iCOuG187PEZ33dc3LE) | [Redmi 6A](https://mega.nz/file/J7Z1napD#M4MOj85qqPS3gb8DbI8I5xo_l0wjQIJfVyvNYF6SXqs)
 
-## TWRP Official
-+ [TWRP 3.4.0-1 Cactus](https://twrp.me/xiaomi/xiaomiredmi6a.html)
-+ [TWRP 3.4.0-1 Cereus](https://twrp.me/xiaomi/xiaomiredmi6.html)
+## TWRP 
++ TWRP Official | [Cactus](https://twrp.me/xiaomi/xiaomiredmi6a.html) | [Cereus](https://twrp.me/xiaomi/xiaomiredmi6.html)
++ LRTWRP 3.3.1 | [Cactus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cactus/releases/download/lrtwrp-3.3.1/TWRP-3.3.1-REDMI6A-wzsx150_b5.img) | [Cereus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cereus/releases/download/lrtwrp-3.3.1/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img)
 
 ## ROMs mirror:
 + MEGA: https://mega.nz/folder/Mz4CBayS#KTYtAccxx8Kpi9US5XK-hA
