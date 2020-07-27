@@ -10,7 +10,7 @@ VoLTE not working
 ## Installation ROMs
 [Installation guide](https://telegra.ph/Install-custom-rom-on-Xiaomi-Redmi-6-and-Redmi-6A-07-22)
 
-## ROMS
+## ROMs
 
 + AICP 14.0 | [Redmi 6](https://mega.nz/file/NygF0ISY#aBWRByKkqsHAw-WzPxFiJinfTOvlfR95LraDRvJgD5c) | [Redmi 6A](https://mega.nz/file/5y5XhYZI#SwyeHzg-OJ3OGjt8WYapSIyBwSjntwfQr5f0ZdzBkwc)
 + ArrowOS | [Redmi 6](https://mega.nz/file/xmYGSCya#GB64Xe1jKFWAnIhb6DStyBhXSFiysAvRPhmG25GBr3s) | [Redmi 6A](https://mega.nz/file/1jJQUQDL#QSP2Bsptcnz6iXOvE7FV1KoSt0KY_HHaVqVKxP9bpC8)
