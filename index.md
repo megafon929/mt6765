@@ -26,21 +26,13 @@ VoLTE not working
 + LRTWRP 3.3.1 | [Cactus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cactus/releases/download/lrtwrp-3.3.1/TWRP-3.3.1-REDMI6A-wzsx150_b5.img) | [Cereus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cereus/releases/download/lrtwrp-3.3.1/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img)
 
 ## ROMs mirror:
-+ MEGA: https://mega.nz/folder/Mz4CBayS#KTYtAccxx8Kpi9US5XK-hA
-+ Yandex Disk: https://yadi.sk/d/17SicdBUsSeZ_Q
-+ Mail.ru Cloud: https://cloud.mail.ru/public/5yNK/2iFGmtMHs
-+ Android File Host: https://androidfilehost.com/?w=profile&uid=385035244224405654
+[MEGA](https://mega.nz/folder/Mz4CBayS#KTYtAccxx8Kpi9US5XK-hA) | [Yandex Disk](https://yadi.sk/d/17SicdBUsSeZ_Q) | [Mail.ru Cloud](https://cloud.mail.ru/public/5yNK/2iFGmtMHs) | [Android File Host](https://androidfilehost.com/?w=profile&uid=385035244224405654)
 
 ## Social
-+ [Telegram](https://t.me/yarpopkov)
-+ [Telegram channel](https://t.me/m929_rom)
-+ [Twitter](https://twitter.com/yarpopkov)
-+ [4PDA](https://4pda.ru/forum/index.php?showuser=4357013)
-+ [VK](https://vk.com/yarpopkov)
+[Telegram](https://t.me/yarpopkov) | [Telegram channel](https://t.me/m929_rom) | [Twitter](https://twitter.com/yarpopkov) | [4PDA](https://4pda.ru/forum/index.php?showuser=4357013) | [VK](https://vk.com/yarpopkov)
 
 ## For donation
-+ [Yandex Money](https://money.yandex.ru/to/410015491197190)
-+ [PayPal](https://paypal.me/megafon929)
+[Yandex Money](https://money.yandex.ru/to/410015491197190) | [PayPal](https://paypal.me/megafon929)
 
 ## Gratitudes
 + [Myst33d](https://github.com/Myst33d)
