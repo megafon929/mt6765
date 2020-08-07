@@ -1,9 +1,5 @@
 # MegaFon929 Custom ROMs for Redmi 6 and Redmi 6A
 
-## Information
-#### I have been in the hospital since July 29. Don't bother me.
-#### I need more RAM. [For donation](https://megafon929.github.io/megafon929/#for-donation)
-
 ## Bugs
 VoLTE not working
 
