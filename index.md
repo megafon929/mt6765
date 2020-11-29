@@ -19,6 +19,7 @@ VoLTE not working
 
 ## TWRP 
 + TWRP Official | [Cactus](https://twrp.me/xiaomi/xiaomiredmi6a.html) | [Cereus](https://twrp.me/xiaomi/xiaomiredmi6.html)
++ PBRP Official | [Cactus](https://pitchblackrecovery.com/cactus) | [Cereus](https://pitchblackrecovery.com/cereus)
 + LRTWRP 3.3.1 | [Cactus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cactus/releases/download/lrtwrp-3.3.1/TWRP-3.3.1-REDMI6A-wzsx150_b5.img) | [Cereus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cereus/releases/download/lrtwrp-3.3.1/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img)
 
 ## ROMs mirror:
