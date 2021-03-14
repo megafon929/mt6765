@@ -19,10 +19,7 @@ VoLTE not working
 + ValidusOS | [Redmi 6](https://mega.nz/file/ByxGhJyZ#ELuWPOtS1x-d7bLygDYFj6t-cyXO2CVvaJ69O0YPNT8) | [Redmi 6A](https://mega.nz/file/U2IjhSrI#6itaQsgBSLToJ4z8Ru4qmK6oorXF3sG-vtQtI9zDTZw)
 
 ## TWRP 
-+ TWRP Official | [Cactus](https://twrp.me/xiaomi/xiaomiredmi6a.html) | [Cereus](https://twrp.me/xiaomi/xiaomiredmi6.html)
-+ PBRP Official | [Cactus](https://pitchblackrecovery.com/cactus) | [Cereus](https://pitchblackrecovery.com/cereus)
-+ LRTWRP 3.3.1 | [Cactus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cactus/releases/download/lrtwrp-3.3.1/TWRP-3.3.1-REDMI6A-wzsx150_b5.img) | [Cereus](https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cereus/releases/download/lrtwrp-3.3.1/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img)
-+ OrangeFox Unofficial | [Cactus](https://www.androidfilehost.com/?fid=17248734326145710347) | [Cereus](https://www.androidfilehost.com/?fid=17248734326145710347)
+[TWRP Pie Autoinstaller](https://megafon929.github.io/twrp-autoinstaller) 
 
 ## Gratitudes
 + [Myst33d](https://github.com/Myst33d)
